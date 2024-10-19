@@ -38,7 +38,7 @@ public class Main {
 
         System.out.println("------------------------");
 
-        //resto da divisao do numero
+        // resto da divisao do numero
         int x = 10;
         x %= 3;
 
